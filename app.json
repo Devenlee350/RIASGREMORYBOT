@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "TOXXIC MD",
+        "value": "STRIKERBOY-MD V2",
         "required": true
       },
   
@@ -31,7 +31,7 @@
       },
       "MENU": {
         "description": "choose 1, 2, 3",
-        "value": "1"
+        "value": "2"
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
@@ -40,12 +40,12 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "RIAS_GREMORY-BOT"
+        "value": " STRIKERBOY-MD V2"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Africa/Harare"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -60,7 +60,7 @@
       "AUTO_SAVE_STATUS": {
         "description": " Auto save whatsapp status",
         "required": false,
-        "value": "false"
+        "value": "true"
       },
       "HEROKU_API_KEY": {
         "description": "Put Your Heroku Api Key Here",
@@ -75,7 +75,7 @@
       "WAPRESENCE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
-        "value": "unavailable"
+        "value": "available"
       },
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "33757054414"
+        "value": "263719765023"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -111,11 +111,11 @@
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "private"
+        "value": "public"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Asta Md",
+        "value": "STRIKERBOY MD",
         "required": false
       },
       "PACK_AUTHER": {
